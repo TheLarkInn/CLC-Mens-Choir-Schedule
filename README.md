@@ -17,6 +17,6 @@ Men's choir meets every monday night at 7:00PM for rehearsal, in the lower fello
 - Dec. 21st: Christmas Choir Concert
   - 5:45PM Call Time for all Choirs
   - 7:00PM Performance Starts
-### Contact
 
+### Contact
 - Email: sean.larkin@cuw.edu 

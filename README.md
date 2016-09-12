@@ -1,21 +1,20 @@
-# CLC Men's Choir Schedule
-Christ Lutheran Church Men's Choir Rehearsal and Performance Schedules
+# CLC Men's Choir Schedule (2016: Fall)
+Men's choir meets every monday night at 7:00PM for rehearsal, in the lower fellowship hall. Listed below are the dates and times for our upcoming performance's.
 
-## 2016 Fall
------
 ### October
 - Oct. 9th: 11:00AM
-- Oct. 10th: 7:00PM (Pre-rehersal)
+- Oct. 10th: 7:00PM **(Pre-rehersal)**
 - Oct. 23rd: 9:30AM
-- Oct. 24th: 7:00PM (Pre-rehersal)
+- Oct. 24th: 7:00PM **(Pre-rehersal)**
 
 ### November
 - Nov. 13th: 8:00AM
-- Nov. 14th: 7:00PM (Pre-rehersal)
+- Nov. 14th: 7:00PM **(Pre-rehersal)**
 
 ### December
 - Dec. 4th: 9:30AM
-- Dec. 5th: 7:00PM (Pre-rehersal)
+- Dec. 5th: 7:00PM **(Pre-rehersal)**
 
 ### Contact
-Email: sean.larkin@cuw.edu
+
+- Email: sean.larkin@cuw.edu 

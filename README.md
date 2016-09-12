@@ -1,8 +1,8 @@
-# CLC-Mens-Choir-Schedule
+# CLC Men's Choir Schedule
 Christ Lutheran Church Men's Choir Rehearsal and Performance Schedules
 
-## CLC Men's Choir 2016
-
+## 2016 Fall
+-----
 ### October
 - Oct. 9th: 11:00AM
 - Oct. 10th: 7:00PM (Pre-rehersal)
